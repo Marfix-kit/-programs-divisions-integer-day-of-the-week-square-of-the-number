@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\bin\Debug\net8.0\task02.exe
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\bin\Debug\net8.0\task02.deps.json
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\bin\Debug\net8.0\task02.runtimeconfig.json
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\bin\Debug\net8.0\task02.dll
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\bin\Debug\net8.0\task02.pdb
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.dll
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\refint\task02.dll
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.pdb
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\task02.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\02.12_Morning\task02\obj\Debug\net8.0\ref\task02.dll
