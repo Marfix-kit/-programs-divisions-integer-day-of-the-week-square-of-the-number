@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\Untitled\Example0008\bin\Debug\net8.0\Example0008.exe
+C:\Users\Дашуля\Desktop\Untitled\Example0008\bin\Debug\net8.0\Example0008.deps.json
+C:\Users\Дашуля\Desktop\Untitled\Example0008\bin\Debug\net8.0\Example0008.runtimeconfig.json
+C:\Users\Дашуля\Desktop\Untitled\Example0008\bin\Debug\net8.0\Example0008.dll
+C:\Users\Дашуля\Desktop\Untitled\Example0008\bin\Debug\net8.0\Example0008.pdb
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.dll
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\refint\Example0008.dll
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.pdb
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\Example0008.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\Untitled\Example0008\obj\Debug\net8.0\ref\Example0008.dll

@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\Untitled\Example09\bin\Debug\net8.0\Example09.exe
+C:\Users\Дашуля\Desktop\Untitled\Example09\bin\Debug\net8.0\Example09.deps.json
+C:\Users\Дашуля\Desktop\Untitled\Example09\bin\Debug\net8.0\Example09.runtimeconfig.json
+C:\Users\Дашуля\Desktop\Untitled\Example09\bin\Debug\net8.0\Example09.dll
+C:\Users\Дашуля\Desktop\Untitled\Example09\bin\Debug\net8.0\Example09.pdb
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.dll
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\refint\Example09.dll
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.pdb
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\Example09.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\Untitled\Example09\obj\Debug\net8.0\ref\Example09.dll
